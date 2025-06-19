@@ -1,0 +1,4 @@
+20 ,     Manahil Zeeshan     , 19 ,     F     , 15 ,     DS     ,     BasketBall
+10 ,     Fuzail Faraz     , 19 ,     M     , 10 ,     DS     ,     Football;Futsal;Tennis
+23 ,    Sumaiyya Khan    , 19 ,    F    , 23 ,    DS    ,    Football
+10 , Fuzail , 19 , M , 10 , CS , Football

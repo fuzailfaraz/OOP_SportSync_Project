@@ -1,0 +1,36 @@
+Thurs,2023-04-13,09:00-10:00,Futsal,CS,EE,Futsal Ground
+Thurs,2023-04-13,09:00-10:00,Football,MS,ME,Football Ground
+Thurs,2023-04-13,10:30-11:30,Badminton,SS,AE,Badminton Court
+Thurs,2023-04-13,12:00-13:00,Tennis,AE,CS,Tennis Court
+Thurs,2023-04-13,12:00-13:00,Basketball,SS,MS,Basketball Court
+Thurs,2023-04-13,13:30-14:30,Tug of War,EE,ME,Football Ground
+Fri,2023-04-14,09:00-10:00,Futsal,CS,EE,Futsal Ground
+Fri,2023-04-14,09:00-10:00,Badminton,MS,ME,Badminton Court
+Fri,2023-04-14,10:30-11:30,Basketball,SS,AE,Basketball Court
+Fri,2023-04-14,12:00-13:00,Tennis,AE,CS,Tennis Court
+Fri,2023-04-14,12:00-13:00,Tug of War,SS,MS,Football Ground
+Fri,2023-04-14,13:30-14:30,Football,EE,ME,Football Ground
+Sat,2023-04-15,09:00-10:00,Badminton,CS,EE,Badminton Court
+Sat,2023-04-15,09:00-10:00,Basketball,MS,ME,Basketball Court
+Sat,2023-04-15,10:30-11:30,Tennis,SS,AE,Tennis Court
+Sat,2023-04-15,12:00-13:00,Tug of War,AE,CS,Football Ground
+Sat,2023-04-15,13:30-14:30,Football,SS,MS,Football Ground
+Sat,2023-04-15,15:00-16:00,Futsal,EE,ME,Futsal Ground
+Sun,2023-04-16,09:00-10:00,Basketball,CS,EE,Basketball Court
+Sun,2023-04-16,09:00-10:00,Tennis,MS,ME,Tennis Court
+Sun,2023-04-16,10:30-11:30,Tug of War,SS,AE,Football Ground
+Sun,2023-04-16,12:00-13:00,Football,AE,CS,Football Ground
+Sun,2023-04-16,12:00-13:00,Futsal,SS,MS,Futsal Ground
+Sun,2023-04-16,13:30-14:30,Badminton,EE,ME,Badminton Court
+Mon,2023-04-17,09:00-10:00,Tennis,CS,EE,Tennis Court
+Mon,2023-04-17,09:00-10:00,Tug of War,MS,ME,Football Ground
+Mon,2023-04-17,10:30-11:30,Football,SS,AE,Football Ground
+Mon,2023-04-17,12:00-13:00,Futsal,AE,CS,Futsal Ground
+Mon,2023-04-17,12:00-13:00,Badminton,SS,MS,Badminton Court
+Mon,2023-04-17,13:30-14:30,Basketball,EE,ME,Basketball Court
+Tues,2023-04-18,09:00-10:00,Tug of War,CS,EE,Football Ground
+Tues,2023-04-18,09:00-10:00,Basketball,SS,MS,Basketball Court
+Tues,2023-04-18,10:30-11:30,Futsal,SS,AE,Futsal Ground
+Tues,2023-04-18,12:00-13:00,Badminton,AE,CS,Badminton Court
+Tues,2023-04-18,12:00-13:00,Football,MS,ME,Football Ground
+Tues,2023-04-18,13:30-14:30,Tennis,EE,ME,Tennis Court

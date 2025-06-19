@@ -1,0 +1,2 @@
+[Thu Jun 19 09:05:44 2025] Admin added a new match: CS vs EE on 2023-04-18 at 14:30-15:30
+[Thu Jun 19 09:47:50 2025] Admin deleted match #37
